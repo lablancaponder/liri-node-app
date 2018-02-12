@@ -62,7 +62,7 @@ inquirer.prompt([
       type: "list",
       name: "userInput",
       message: "Hello LaBlanca, what would you like to do today? \r\n",
-      choices: ["a)  View latest tweets", "b)  Look up a song", "c)  Look up a movie", "d)  It does as it's told..."]
+      choices: ["a)  View latest tweets", "b)  Look up a song", "c)  Look up a movie"]
     }
 ])
     
@@ -176,12 +176,7 @@ function songSearch() {
             console.log("");
             console.log("");     
           })
-          .catch(function(error) {
-
-            console.error("Error occurred: " + error);
-                      
-          });
-
+         
       } else {
 
         spotifyApi
@@ -221,9 +216,7 @@ function songSearch() {
           console.log("");     
 
         })
-        .catch(function(error) {
-          console.error("Error occurred: " + error);
-        });
+       
     }
   });
 }
