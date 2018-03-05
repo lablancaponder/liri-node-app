@@ -9,14 +9,14 @@
 
 
 
-## GitHub Repo: https://github.com/lponder82/liri.git
+## GitHub Repo: https://github.com/lponder82/liri-node-app.git
 
 ## Screenshot
 
-![Image of Command Line](/lirihome.png)
-![Image of Command Line](/liritweets.png)
-![Image of Command Line](/lirisongs.png)
-![Image of Command Line](/lirimovies.png)
+![Image of Command Line](lirihome.png)
+![Image of Command Line](liritweets.png)
+![Image of Command Line](lirisongs.png)
+![Image of Command Line](lirimovies.png)
 
 
 
