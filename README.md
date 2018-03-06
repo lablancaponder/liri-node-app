@@ -13,10 +13,10 @@
 
 ## Screenshot
 
-![Image of Command Line](lirihome.png)
-![Image of Command Line](liritweets.png)
-![Image of Command Line](lirisongs.png)
-![Image of Command Line](lirimovies.png)
+![Image of Command Line](lirihome.PNG)
+![Image of Command Line](liritweets.PNG)
+![Image of Command Line](lirisongs.PNG)
+![Image of Command Line](lirimovies.PNG)
 
 
 
