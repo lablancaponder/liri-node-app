@@ -9,7 +9,7 @@
 
 
 
-## GitHub Repo: https://github.com/lponder82/liri-node-app.git
+## GitHub Repo: https://github.com/lablancaponder/liri-node-app.git
 
 ## Screenshot
 
